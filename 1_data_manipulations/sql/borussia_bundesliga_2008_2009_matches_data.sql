@@ -1,0 +1,1 @@
+SELECT Count() as count FROM Match WHERE season = '2008/2009' and home_team_api_id = 9789
