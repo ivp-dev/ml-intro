@@ -12,4 +12,4 @@ gk_positioning,gk_reflexes;gk_handling,gk_reflexes;gk_handling,gk_positioning;st
 34
 20
 SL Benfica
-<pandas.core.groupby.generic.DataFrameGroupBy object at 0x000001395A933EB0>
+225
